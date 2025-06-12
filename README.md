@@ -3,7 +3,7 @@
 # Avatarify Python
 
 Photorealistic avatars for video-conferencing.
-
+- **7 Mar 2021.** Renamed project to Avatarify Python to distinguish it from other versions of Avatarify
 Avatarify Python requires manually downloading and installing some dependencies, and is therefore best suited for users who have some experience with command line applications. [Avatarify Desktop](https://github.com/alievk/avatarify-desktop), which aims to be easier to install and use, is recommended for most users. If you still want to use Avatarify Python, proceed to the [install instructions](docs/).
 
 Based on [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model).
